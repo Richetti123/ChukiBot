@@ -281,5 +281,6 @@ handler.command = [
   /^exportcfg$/i,
   /^importcfg$/i
 ]
+handler.group = true
 
 export default handler
